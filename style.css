@@ -144,23 +144,6 @@ General styles
   border-bottom: none;
 }
 
-.talk-title {
-  margin: 0;
-  padding: 0;
-  line-height: 1.3em;
-}
-
-.talk-speaker {
-  margin: .5em 0;
-  padding: 0;
-}
-
-.talk-time {
-  margin: .5em 0;
-  padding: 0;
-  font-weight: bold;
-}
-
 .sidebar {
   background: #272427;
 }
@@ -177,37 +160,37 @@ General styles
   text-align: center;
 }
 
-.a11y {
+.insta {
   color: #272427;
   background: #ccffb9;
 }
 
-.coc {
+.fb {
   background: #9de8f5;
 }
 
-.contact {
+.x {
   background: #d893f7;
 }
 
-.faq {
+.w {
   background: #f4f469;
 }
 
-.colophon {
+ .footer {
 	padding: 1em 2em;
   background: #272427;
 	color: white;
 }
 
-.colophon a {
+.footer a {
 	color: white;
 }
 
-.colophon a:hover,
-.colophon a:focus {
+.footer a:hover,
+.footer a:focus {
 	border-bottom: 1px solid white;
-}
+} 
 
 /*--------------------------------------------------------------
 If no grid support, limit width to 50em and center align
