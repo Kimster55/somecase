@@ -208,7 +208,15 @@ If no grid support, limit width to 50em and center align
 CSS Grid layout for wider screens, when browser supports grid:
 --------------------------------------------------------------*/
 
-@supports (display: grid) {
+
+
+
+
+
+
+
+
+/* @supports (display: grid) {
   @media screen and (min-width: 800px) {
     
   	.site {
@@ -253,4 +261,4 @@ CSS Grid layout for wider screens, when browser supports grid:
         "main sidebar footer";
 		}
   }
-}
+} */
